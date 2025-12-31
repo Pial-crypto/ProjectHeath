@@ -115,13 +115,13 @@ health-tracker/
 
 ```
 Admin:
-Email: admin@example.com | Password: password
+Email: p03734027@gmail.com | Password:123456
 
 Employee:
-Email: emp@example.com | Password: password
+Email: pialmahamudul4@gmail.com | Password:&CunC5cv$SLO
 
 Client:
-Email: client@example.com | Password: password
+Email: pial04@student.sust.edu | Password:&CunC5cv$SLO
 ```
 
 ## Getting Started
@@ -374,7 +374,8 @@ The login and singUp api was not included here.But it will be.To reduce the hook
 
 ## License
 
-Copyright © 2025 Health Tracker - Project Management System. All rights reserved.
+Copyright © 2025 Health Tracker - Project Management System. All rights reserved.(Just to show as professional)
 
+Live url: healthyproject-six.vercel.app
 ---
 
